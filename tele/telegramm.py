@@ -1,7 +1,7 @@
 
 import telebot
 
-token = '5234349306:AAEhMvHbT56dSFRJlBjVL_WQvvdjasnOhA8'
+token = ''
 my_id = 443232407
 bot = telebot.TeleBot(token)
 
